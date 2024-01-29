@@ -1,0 +1,2 @@
+# Simpleweb.kak
+web
